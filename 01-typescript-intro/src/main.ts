@@ -8,6 +8,8 @@ import './style.css'
 //  import './topics/07-import-export'
  import './topics/08-clases'
 
+// Esto es un cambio de prueba
+
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <h1>Hola Mundo</h1>
 `
